@@ -17,3 +17,7 @@ A raíz de esta solicitud, nuestro Project Manager nos encarga una serie de tare
 + Crear una base de datos en un motor SQL e ingestar el csv procesado
 + Elaborar un dashboard e idear un storytelling con el objetivo de presentarlo ante la OACI
 + Adjuntar todo el trabajo en un repositorio de GitHub
+
+# <h1 align="center">**`Análisis exploratorio de datos`**</h1>
+
+## **Dataset Inicial(Henry)**
