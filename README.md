@@ -21,3 +21,7 @@ A raíz de esta solicitud, nuestro Project Manager nos encarga una serie de tare
 # <h1 align="center">**`Análisis exploratorio de datos`**</h1>
 
 ## **Dataset Inicial(Henry)**
+Reporte de calidad
+
+![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Inicial_01.png)
+![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Inicial_02.png)
