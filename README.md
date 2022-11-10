@@ -31,7 +31,8 @@ Diccionario
 
 ## **ETL**
 
-Partiendo del dataset inicial, se realizo la limpienza y normalizacion. Tambien se agregaron nuevas columnas desde otro dataset con las coordenadas de los axidentes. Se renombraron las columnas con su respectiva traduccion.
+Partiendo del dataset inicial, se realizo la limpienza y normalizacion. Tambien se agregaron nuevas columnas desde otro dataset con las coordenadas de los accidentes. Se renombraron las columnas con su respectiva traduccion.
+
 
 ## **Dataset Final**
 
