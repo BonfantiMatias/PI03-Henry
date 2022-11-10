@@ -25,3 +25,21 @@ Reporte de calidad
 
 ![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Inicial_01.png)
 ![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Inicial_02.png)
+
+Diccionario 
+
+
+## **ETL**
+
+Partiendo del dataset inicial, se realizo la limpienza y normalizacion. Tambien se agregaron nuevas columnas desde otro dataset con las coordenadas de los axidentes. Se renombraron las columnas con su respectiva traduccion.
+
+## **Dataset Final**
+
+![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Final_01.png)
+![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Final_02.png)
+
+Diccionario
+
+## **Exportacion Dataframe a Postgres**
+
+![](https://github.com/BonfantiMatias/PI03-Henry/blob/main/images/Postgres.png)
